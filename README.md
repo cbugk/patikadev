@@ -1,0 +1,1 @@
+A single mother-repository to accumulate challanges/assignments/toy projects done for [my Patika.dev account](https://app.patika.dev/cbugra). Each subdirectory is sovereign with the exception of licensing unless otherwise specified.
