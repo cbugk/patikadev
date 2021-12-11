@@ -6,19 +6,19 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## Installation
 
-Öncelikle projeyi clonelayın.
+Öncelikle ana projeyi klonlayın.
 
 ```bash
-git clone https://github.com/cbugra/kodluyoruzilkrepo.git
+git clone https://github.com/cbugra/patikadev.git
 ```
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi klonladıktan sonra, ödev dizinine geçip Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd kodluyoruzilkrepo
+cd patikadev/modules/git/homework_01
 code .
 ```
 
