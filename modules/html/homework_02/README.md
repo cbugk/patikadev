@@ -1,4 +1,4 @@
-# İlk Web Sayfamızı Oluşturmak
+# Kişisel Sayfamızı Detaylandırmaya Devam Etmek
 
 Patika.dev, HTML modülündeki [Ödev 2](https://app.patika.dev/moduller/html/odev1).
 
