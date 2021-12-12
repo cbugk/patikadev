@@ -1,6 +1,6 @@
 # Kişisel Sayfamızı Detaylandırmaya Devam Etmek
 
-Patika.dev, HTML modülündeki [Ödev 2](https://app.patika.dev/moduller/html/odev1).
+Patika.dev, HTML modülündeki [Ödev 2](https://app.patika.dev/moduller/html/odev2).
 
 ![index.html ekran görüntüsü](./images/index.png)
 
