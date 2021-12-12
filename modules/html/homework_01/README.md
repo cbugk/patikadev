@@ -18,7 +18,7 @@ Projeyi klonladıktan sonra, ödev dizinine geçip Visual Studio Code programın
 
 Linux için:
 ```linux
-cd patikadev/modules/git/homework_01
+cd patikadev/modules/html/homework_01
 code .
 ```
 
