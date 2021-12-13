@@ -2,7 +2,7 @@
 
 Patika.dev, HTML modülündeki [Ödev 2](https://app.patika.dev/moduller/html/odev2).
 
-![index.html ekran görüntüsü](./images/index.png)
+![index.html ekran görüntüsü](./img/index.png)
 
 ## İndirme
 
@@ -14,11 +14,11 @@ git clone https://github.com/cbugra/patikadev.git
 
 ## Düzenleme
 
-Projeyi klonladıktan sonra, ödev dizinine geçip Visual Studio Code programında açınız.
+Projeyi klonladıktan sonra, ödev dizinine geçip editor programında açınız.
 
-Linux için:
-```linux
-cd patikadev/modules/html/homework_02
+Linux için VS Code örneği:
+```bash
+cd patikadev/modules/html/odev2
 code .
 ```
 
