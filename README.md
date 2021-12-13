@@ -1,6 +1,6 @@
 ## About
 
-A single repository to accumulate and encapsulate challanges/assignments/toy projects done for [my Patika.dev account](https://app.patika.dev/cbugra).
+A single repository to accumulate and encapsulate challanges/assignments/toy projects done for [my Patika.dev account](https://app.patika.dev/cbugra). Content is in Turkish in accord with the followed material.
 
 ## Directory Structure
 
